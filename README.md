@@ -5,7 +5,7 @@
 :toc-placement!:
 
 This <https://github.com/topics/awesome-list[Awesome> List] aims at providing an overview of <https://opensource.org/licenses[open-source>] projects related to data engineering.
-This is a community effort: please <https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute> ⭐ 3,267 | 🐛 24 | 📅 2024-10-04] and send your pull requests for growing this list!
+This is a community effort: please <https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute> ⭐ 3,268 | 🐛 24 | 📅 2024-10-04] and send your pull requests for growing this list!
 For a list including non-OSS tools, see this amazing <https://github.com/igorbarinov/awesome-data-engineering[Awesome> List].
 
 toc::\[]
@@ -126,12 +126,12 @@ toc::\[]
 
 \== Versioning
 
-* <https://github.com/treeverse/lakeFS/[lakeFS> ⭐ 5,492 | 🐛 439 | 🌐 Go | 📅 2026-08-19] - Repeatable, atomic and versioned data lake on top of object storage.
+* <https://github.com/treeverse/lakeFS/[lakeFS> ⭐ 5,491 | 🐛 439 | 🌐 Go | 📅 2026-08-19] - Repeatable, atomic and versioned data lake on top of object storage.
 
 \== Workflow Management
 
-* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,648 | 🐛 865 | 🌐 Python | 📅 2026-08-20] - A workflow management system designed for modern infrastructure.
-* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,028 | 🐛 2,595 | 🌐 Python | 📅 2026-08-19] - A data orchestrator for machine learning, analytics, and ETL.
+* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,647 | 🐛 852 | 🌐 Python | 📅 2026-08-21] - A workflow management system designed for modern infrastructure.
+* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,044 | 🐛 2,594 | 🌐 Python | 📅 2026-08-20] - A data orchestrator for machine learning, analytics, and ETL.
 * <https://github.com/meirwah/awesome-workflow-engines[Awesome> Workflow Engines] - A curated list of awesome open source workflow engines.
 * <https://airflow.apache.org/[Apache> Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
 * <https://nifi.apache.org/[Apache> NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
@@ -166,4 +166,4 @@ The contents of this repository is licensed under the "Creative Commons Attribut
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
