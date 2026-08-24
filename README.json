@@ -1,7 +1,89 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "== Business Intelligence\n== Data Lakehouse\n== Change Data Capture\n== Datastores\n== Data Governance and Registries\n== Data Virtualization\n== Data Orchestration\n== Formats\n== Integration\n== Messaging Infrastructure\n== Specifications and Standards\n== Stream Processing\n== Testing\n== Monitoring and Logging\n== Versioning\n== Workflow Management\n== Related Resources\nonly overview contents, no specific tools\n=== Slide Decks, Recordings and Podcasts\n=== Blog Posts and Articles\n=== Collections\n== License\nThe contents of this repository is licensed under the \"Creative Commons Attribution-ShareAlike 4.0 International License\".",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/DataKitchen/data-observability-installer/[DataKitchen",
+          "description": "Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788686533,
+            "language": "Python",
+            "last_commit": "2026-07-23T23:25:42Z",
+            "owner": "DataKitchen",
+            "repo": "data-observability-installer",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/DataKitchen/data-observability-installer/[DataKitchen",
+          "description": "Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788686533,
+            "language": "Python",
+            "last_commit": "2026-07-23T23:25:42Z",
+            "owner": "DataKitchen",
+            "repo": "data-observability-installer",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/treeverse/lakeFS/[lakeFS",
+          "description": "] - Repeatable, atomic and versioned data lake on top of object storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208038454,
+            "language": "Go",
+            "last_commit": "2026-08-19T13:41:32Z",
+            "owner": "treeverse",
+            "repo": "lakeFS",
+            "stars": 5493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/PrefectHQ/prefect/[Prefect",
+          "description": "] - A workflow management system designed for modern infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139199684,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:16:44Z",
+            "owner": "PrefectHQ",
+            "repo": "prefect",
+            "stars": 23666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/dagster-io/dagster/[Dagster",
+          "description": "] - A data orchestrator for machine learning, analytics, and ETL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131619646,
+            "language": "Python",
+            "last_commit": "2026-08-22T16:50:43Z",
+            "owner": "dagster-io",
+            "repo": "dagster",
+            "stars": 16058
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T11:06:05.307Z",
+    "last_updated": "2026-08-24T14:01:29.450Z",
     "original_repository": "gunnarmorling/awesome-opensource-data-engineering",
     "original_repository_id": 239865516,
     "original_repository_sha": "54b5f56bdea16c4db0d0e372cce16061065ef57d",
