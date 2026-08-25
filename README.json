@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T13:41:32Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5493
+            "stars": 5495
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 139199684,
             "language": "Python",
-            "last_commit": "2026-08-25T00:45:36Z",
+            "last_commit": "2026-08-25T08:17:07Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23672
+            "stars": 23677
           }
         },
         {
@@ -83,7 +83,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:47.837Z",
+    "last_updated": "2026-08-25T11:03:46.930Z",
     "original_repository": "gunnarmorling/awesome-opensource-data-engineering",
     "original_repository_id": 239865516,
     "original_repository_sha": "54b5f56bdea16c4db0d0e372cce16061065ef57d",
