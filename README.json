@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/DataKitchen/data-observability-installer/[DataKitchen",
+          "title": "DataKitchen/data-observability-installer",
           "description": "Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.",
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/DataKitchen/data-observability-installer/[DataKitchen",
+          "title": "DataKitchen/data-observability-installer",
           "description": "Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/treeverse/lakeFS/[lakeFS",
+          "title": "treeverse/lakeFS",
           "description": "] - Repeatable, atomic and versioned data lake on top of object storage.",
           "children": [],
           "repo_info": {
@@ -50,32 +50,32 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PrefectHQ/prefect/[Prefect",
+          "title": "PrefectHQ/prefect",
           "description": "] - A workflow management system designed for modern infrastructure.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 139199684,
             "language": "Python",
-            "last_commit": "2026-08-24T13:16:44Z",
+            "last_commit": "2026-08-25T00:45:36Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23666
+            "stars": 23672
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dagster-io/dagster/[Dagster",
+          "title": "dagster-io/dagster",
           "description": "] - A data orchestrator for machine learning, analytics, and ETL.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 131619646,
             "language": "Python",
-            "last_commit": "2026-08-22T16:50:43Z",
+            "last_commit": "2026-08-24T20:47:50Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16058
+            "stars": 16059
           }
         }
       ],
@@ -83,7 +83,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:29.450Z",
+    "last_updated": "2026-08-25T05:51:47.837Z",
     "original_repository": "gunnarmorling/awesome-opensource-data-engineering",
     "original_repository_id": 239865516,
     "original_repository_sha": "54b5f56bdea16c4db0d0e372cce16061065ef57d",
