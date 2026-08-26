@@ -12,7 +12,7 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-07-23T23:25:42Z",
+            "last_commit": "2026-08-26T03:14:57Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-07-23T23:25:42Z",
+            "last_commit": "2026-08-26T03:14:57Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T13:41:32Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5495
+            "stars": 5494
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 139199684,
             "language": "Python",
-            "last_commit": "2026-08-25T08:17:07Z",
+            "last_commit": "2026-08-25T17:15:13Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23677
+            "stars": 23689
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 131619646,
             "language": "Python",
-            "last_commit": "2026-08-24T20:47:50Z",
+            "last_commit": "2026-08-26T01:21:55Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16059
+            "stars": 16064
           }
         }
       ],
@@ -83,7 +83,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:03:46.930Z",
+    "last_updated": "2026-08-26T11:05:55.894Z",
     "original_repository": "gunnarmorling/awesome-opensource-data-engineering",
     "original_repository_id": 239865516,
     "original_repository_sha": "54b5f56bdea16c4db0d0e372cce16061065ef57d",
