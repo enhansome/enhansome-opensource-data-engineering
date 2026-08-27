@@ -12,7 +12,7 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-08-26T03:14:57Z",
+            "last_commit": "2026-08-26T18:42:07Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-08-26T03:14:57Z",
+            "last_commit": "2026-08-26T18:42:07Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T13:41:32Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5494
+            "stars": 5496
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 139199684,
             "language": "Python",
-            "last_commit": "2026-08-25T17:15:13Z",
+            "last_commit": "2026-08-27T11:39:07Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23689
+            "stars": 23696
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 131619646,
             "language": "Python",
-            "last_commit": "2026-08-26T01:21:55Z",
+            "last_commit": "2026-08-26T19:38:00Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16064
+            "stars": 16068
           }
         }
       ],
@@ -83,9 +83,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:05:55.894Z",
-    "original_repository": "gunnarmorling/awesome-opensource-data-engineering",
-    "original_repository_id": 239865516,
+    "last_updated": "2026-08-27T11:57:33.108Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 239865516,
+      "language": null,
+      "last_commit": "2024-10-04T11:45:10Z",
+      "owner": "gunnarmorling",
+      "repo": "awesome-opensource-data-engineering",
+      "stars": 3272
+    },
     "original_repository_sha": "54b5f56bdea16c4db0d0e372cce16061065ef57d",
     "enhanced_repository": "enhansome/enhansome-opensource-data-engineering",
     "enhanced_repository_description": null,
