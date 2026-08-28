@@ -12,11 +12,12 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-08-26T18:42:07Z",
+            "last_commit": "2026-08-28T18:43:31Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T21:15:00.608Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-08-26T18:42:07Z",
+            "last_commit": "2026-08-28T18:43:31Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T21:15:00.608Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-19T13:41:32Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5498
-          }
+            "stars": 5499
+          },
+          "first_seen": "2026-08-28T21:15:00.608Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 139199684,
             "language": "Python",
-            "last_commit": "2026-08-27T20:06:58Z",
+            "last_commit": "2026-08-28T13:46:43Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23699
-          }
+            "stars": 23708
+          },
+          "first_seen": "2026-08-28T21:15:00.608Z"
         },
         {
           "node_type": "item",
@@ -72,18 +76,19 @@
             "archived": false,
             "id": 131619646,
             "language": "Python",
-            "last_commit": "2026-08-27T20:09:18Z",
+            "last_commit": "2026-08-28T17:14:34Z",
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16069
-          }
+            "stars": 16071
+          },
+          "first_seen": "2026-08-28T21:15:00.608Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:45:28.143Z",
+    "last_updated": "2026-08-28T21:15:00.608Z",
     "original_repository_info": {
       "archived": false,
       "id": 239865516,
@@ -91,7 +96,7 @@
       "last_commit": "2024-10-04T11:45:10Z",
       "owner": "gunnarmorling",
       "repo": "awesome-opensource-data-engineering",
-      "stars": 3272
+      "stars": 3273
     },
     "original_repository_sha": "54b5f56bdea16c4db0d0e372cce16061065ef57d",
     "enhanced_repository": "enhansome/enhansome-opensource-data-engineering",
