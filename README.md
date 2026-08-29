@@ -130,7 +130,7 @@ toc::\[]
 
 \== Workflow Management
 
-* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,712 | 🐛 861 | 🌐 Python | 📅 2026-08-28] - A workflow management system designed for modern infrastructure.
+* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,714 | 🐛 861 | 🌐 Python | 📅 2026-08-28] - A workflow management system designed for modern infrastructure.
 * <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,072 | 🐛 2,586 | 🌐 Python | 📅 2026-08-28] - A data orchestrator for machine learning, analytics, and ETL.
 * <https://github.com/meirwah/awesome-workflow-engines[Awesome> Workflow Engines] - A curated list of awesome open source workflow engines.
 * <https://airflow.apache.org/[Apache> Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.

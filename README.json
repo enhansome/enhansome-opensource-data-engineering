@@ -144,7 +144,7 @@
             "open_issues": 861,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23712,
+            "stars": 23714,
             "topics": [
               "automation",
               "data",
@@ -206,7 +206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:46.333Z",
+    "last_updated": "2026-08-29T15:19:17.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Open-Source Data Engineering Projects",
