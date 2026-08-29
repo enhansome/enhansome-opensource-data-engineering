@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility across and down your data estate. Save time with simple, fast data quality test generation and execution. Trust your data, tools, and systems end to end.",
+            "homepage": "https://datakitchen.io",
             "id": 788686533,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:43:31Z",
+            "open_issues": 6,
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "data",
+              "data-engineering",
+              "data-observability",
+              "data-profiling",
+              "data-quality",
+              "data-reliability",
+              "data-science",
+              "datachecker",
+              "datacleaner",
+              "datacleaning",
+              "dataops",
+              "dataquality",
+              "datatesting",
+              "datavalidation",
+              "mssql",
+              "pipeline-tests",
+              "postgresql",
+              "redshift",
+              "self-hosted",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T21:15:00.608Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility across and down your data estate. Save time with simple, fast data quality test generation and execution. Trust your data, tools, and systems end to end.",
+            "homepage": "https://datakitchen.io",
             "id": 788686533,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:43:31Z",
+            "open_issues": 6,
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "data",
+              "data-engineering",
+              "data-observability",
+              "data-profiling",
+              "data-quality",
+              "data-reliability",
+              "data-science",
+              "datachecker",
+              "datacleaner",
+              "datacleaning",
+              "dataops",
+              "dataquality",
+              "datatesting",
+              "datavalidation",
+              "mssql",
+              "pipeline-tests",
+              "postgresql",
+              "redshift",
+              "self-hosted",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T21:15:00.608Z"
         },
@@ -42,12 +94,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lakeFS - Data version control for your data lake | Git for data",
+            "homepage": "https://docs.lakefs.io",
             "id": 208038454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:41:32Z",
+            "open_issues": 439,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5499
+            "stars": 5499,
+            "topics": [
+              "apache-spark",
+              "apache-sparksql",
+              "aws-s3",
+              "azure-blob-storage",
+              "azure-storage",
+              "data-engineering",
+              "data-lake",
+              "data-quality",
+              "data-version-control",
+              "data-versioning",
+              "datalake",
+              "datalakes",
+              "git-for-data",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "hadoop-filesystem",
+              "lakefs",
+              "object-storage"
+            ]
           },
           "first_seen": "2026-08-28T21:15:00.608Z"
         },
@@ -58,12 +135,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "homepage": "https://prefect.io",
             "id": 139199684,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:46:43Z",
+            "open_issues": 861,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23708
+            "stars": 23712,
+            "topics": [
+              "automation",
+              "data",
+              "data-engineering",
+              "data-ops",
+              "data-science",
+              "infrastructure",
+              "ml-ops",
+              "observability",
+              "orchestration",
+              "pipeline",
+              "prefect",
+              "python",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:15:00.608Z"
         },
@@ -74,12 +171,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "homepage": "https://dagster.io",
             "id": 131619646,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:14:34Z",
+            "open_issues": 2586,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16071
+            "stars": 16072,
+            "topics": [
+              "analytics",
+              "dagster",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "etl",
+              "metadata",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T21:15:00.608Z"
         }
@@ -88,15 +206,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:00.608Z",
+    "last_updated": "2026-08-29T04:21:46.333Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An Awesome List of Open-Source Data Engineering Projects",
+      "homepage": null,
       "id": 239865516,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2024-10-04T11:45:10Z",
+      "open_issues": 25,
       "owner": "gunnarmorling",
       "repo": "awesome-opensource-data-engineering",
-      "stars": 3273
+      "stars": 3273,
+      "topics": [
+        "awesome-list",
+        "data-engineering"
+      ]
     },
     "original_repository_sha": "54b5f56bdea16c4db0d0e372cce16061065ef57d",
     "enhanced_repository": "enhansome/enhansome-opensource-data-engineering",
