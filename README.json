@@ -140,11 +140,11 @@
             "id": 139199684,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T08:19:24Z",
-            "open_issues": 866,
+            "last_commit": "2026-09-10T14:35:43Z",
+            "open_issues": 864,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23807,
+            "stars": 23813,
             "topics": [
               "automation",
               "data",
@@ -176,11 +176,11 @@
             "id": 131619646,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T20:04:37Z",
-            "open_issues": 2592,
+            "last_commit": "2026-09-10T14:04:14Z",
+            "open_issues": 2597,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16132,
+            "stars": 16136,
             "topics": [
               "analytics",
               "dagster",
@@ -206,7 +206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:47:46.670Z",
+    "last_updated": "2026-09-10T14:38:06.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Open-Source Data Engineering Projects",
@@ -218,7 +218,7 @@
       "open_issues": 26,
       "owner": "gunnarmorling",
       "repo": "awesome-opensource-data-engineering",
-      "stars": 3285,
+      "stars": 3286,
       "topics": [
         "awesome-list",
         "data-engineering"
