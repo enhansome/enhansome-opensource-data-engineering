@@ -5,7 +5,7 @@
 :toc-placement!:
 
 This <https://github.com/topics/awesome-list[Awesome> List] aims at providing an overview of <https://opensource.org/licenses[open-source>] projects related to data engineering.
-This is a community effort: please <https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute> ⭐ 3,289 | 🐛 26 | 📅 2024-10-04] and send your pull requests for growing this list!
+This is a community effort: please <https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute> ⭐ 3,290 | 🐛 26 | 📅 2024-10-04] and send your pull requests for growing this list!
 For a list including non-OSS tools, see this amazing <https://github.com/igorbarinov/awesome-data-engineering[Awesome> List].
 
 toc::\[]
@@ -115,12 +115,12 @@ toc::\[]
 
 \== Testing
 
-* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2026-09-03 Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.
+* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 140 | 🐛 6 | 🌐 Python | 📅 2026-09-03 Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.
 * <https://greatexpectations.io/[Great> expectations] - Helps data teams eliminate pipeline debt, through data testing.
 
 \== Monitoring and Logging
 
-* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2026-09-03 Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate
+* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 140 | 🐛 6 | 🌐 Python | 📅 2026-09-03 Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate
 * <https://prometheus.io/[prometheus>] - An open-source systems monitoring and alerting toolkit.
 * <https://grafana.com/[grafana>] - An open-source analytics and monitoring platform.
 
@@ -130,8 +130,8 @@ toc::\[]
 
 \== Workflow Management
 
-* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,827 | 🐛 836 | 🌐 Python | 📅 2026-09-12] - A workflow management system designed for modern infrastructure.
-* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,140 | 🐛 2,589 | 🌐 Python | 📅 2026-09-11] - A data orchestrator for machine learning, analytics, and ETL.
+* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,832 | 🐛 838 | 🌐 Python | 📅 2026-09-12] - A workflow management system designed for modern infrastructure.
+* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,142 | 🐛 2,588 | 🌐 Python | 📅 2026-09-11] - A data orchestrator for machine learning, analytics, and ETL.
 * <https://github.com/meirwah/awesome-workflow-engines[Awesome> Workflow Engines] - A curated list of awesome open source workflow engines.
 * <https://airflow.apache.org/[Apache> Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
 * <https://nifi.apache.org/[Apache> NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
@@ -166,4 +166,4 @@ The contents of this repository is licensed under the "Creative Commons Attribut
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
