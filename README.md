@@ -5,7 +5,7 @@
 :toc-placement!:
 
 This <https://github.com/topics/awesome-list[Awesome> List] aims at providing an overview of <https://opensource.org/licenses[open-source>] projects related to data engineering.
-This is a community effort: please <https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute> ⭐ 3,299 | 🐛 26 | 📅 2024-10-04] and send your pull requests for growing this list!
+This is a community effort: please <https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute>] and send your pull requests for growing this list!
 For a list including non-OSS tools, see this amazing <https://github.com/igorbarinov/awesome-data-engineering[Awesome> List].
 
 toc::\[]
@@ -130,7 +130,7 @@ toc::\[]
 
 \== Workflow Management
 
-* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,965 | 🐛 867 | 🌐 Python | 📅 2026-10-02] - A workflow management system designed for modern infrastructure.
+* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 23,963 | 🐛 872 | 🌐 Python | 📅 2026-10-02] - A workflow management system designed for modern infrastructure.
 * <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,232 | 🐛 2,577 | 🌐 Python | 📅 2026-10-02] - A data orchestrator for machine learning, analytics, and ETL.
 * <https://github.com/meirwah/awesome-workflow-engines[Awesome> Workflow Engines] - A curated list of awesome open source workflow engines.
 * <https://airflow.apache.org/[Apache> Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
@@ -166,4 +166,4 @@ The contents of this repository is licensed under the "Creative Commons Attribut
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
