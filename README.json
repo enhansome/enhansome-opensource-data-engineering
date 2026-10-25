@@ -95,7 +95,7 @@
             "open_issues": 455,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5569,
+            "stars": 5570,
             "topics": [
               "apache-spark",
               "apache-sparksql",
@@ -132,11 +132,11 @@
             "id": 139199684,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T08:16:33Z",
-            "open_issues": 913,
+            "last_commit": "2026-10-25T13:15:25Z",
+            "open_issues": 885,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 24067,
+            "stars": 24073,
             "topics": [
               "automation",
               "data",
@@ -169,10 +169,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T23:57:47Z",
-            "open_issues": 2610,
+            "open_issues": 2612,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16321,
+            "stars": 16324,
             "topics": [
               "analytics",
               "dagster",
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:06:55.288Z",
+    "last_updated": "2026-10-25T14:33:58.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Open-Source Data Engineering Projects",
@@ -210,7 +210,7 @@
       "open_issues": 28,
       "owner": "gunnarmorling",
       "repo": "awesome-opensource-data-engineering",
-      "stars": 3307,
+      "stars": 3308,
       "topics": [
         "awesome-list",
         "data-engineering"
