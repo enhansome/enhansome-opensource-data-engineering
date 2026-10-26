@@ -130,8 +130,8 @@ toc::\[]
 
 \== Workflow Management
 
-* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 24,073 | 🐛 885 | 🌐 Python | 📅 2026-10-25] - A workflow management system designed for modern infrastructure.
-* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,324 | 🐛 2,612 | 🌐 Python | 📅 2026-10-23] - A data orchestrator for machine learning, analytics, and ETL.
+* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 24,079 | 🐛 897 | 🌐 Python | 📅 2026-10-26] - A workflow management system designed for modern infrastructure.
+* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,329 | 🐛 2,614 | 🌐 Python | 📅 2026-10-26] - A data orchestrator for machine learning, analytics, and ETL.
 * <https://github.com/meirwah/awesome-workflow-engines[Awesome> Workflow Engines] - A curated list of awesome open source workflow engines.
 * <https://airflow.apache.org/[Apache> Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
 * <https://nifi.apache.org/[Apache> NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
@@ -166,4 +166,4 @@ The contents of this repository is licensed under the "Creative Commons Attribut
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
