@@ -91,8 +91,8 @@
             "id": 208038454,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T16:12:50Z",
-            "open_issues": 448,
+            "last_commit": "2026-11-01T14:49:28Z",
+            "open_issues": 449,
             "owner": "treeverse",
             "repo": "lakeFS",
             "stars": 5575,
@@ -132,11 +132,11 @@
             "id": 139199684,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T20:44:43Z",
-            "open_issues": 873,
+            "last_commit": "2026-11-01T09:11:05Z",
+            "open_issues": 853,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 24103,
+            "stars": 24104,
             "topics": [
               "automation",
               "data",
@@ -169,10 +169,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T22:21:47Z",
-            "open_issues": 2601,
+            "open_issues": 2609,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16357,
+            "stars": 16361,
             "topics": [
               "analytics",
               "dagster",
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:52:11.083Z",
+    "last_updated": "2026-11-01T16:54:32.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Open-Source Data Engineering Projects",
@@ -210,7 +210,7 @@
       "open_issues": 28,
       "owner": "gunnarmorling",
       "repo": "awesome-opensource-data-engineering",
-      "stars": 3309,
+      "stars": 3310,
       "topics": [
         "awesome-list",
         "data-engineering"
