@@ -126,12 +126,12 @@ toc::\[]
 
 \== Versioning
 
-* <https://github.com/treeverse/lakeFS/[lakeFS> ⭐ 5,576 | 🐛 456 | 🌐 Go | 📅 2026-11-03] - Repeatable, atomic and versioned data lake on top of object storage.
+* <https://github.com/treeverse/lakeFS/[lakeFS> ⭐ 5,578 | 🐛 453 | 🌐 Go | 📅 2026-11-05] - Repeatable, atomic and versioned data lake on top of object storage.
 
 \== Workflow Management
 
-* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 24,114 | 🐛 881 | 🌐 Python | 📅 2026-11-04] - A workflow management system designed for modern infrastructure.
-* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,369 | 🐛 2,618 | 🌐 Python | 📅 2026-11-04] - A data orchestrator for machine learning, analytics, and ETL.
+* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 24,116 | 🐛 877 | 🌐 Python | 📅 2026-11-05] - A workflow management system designed for modern infrastructure.
+* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,373 | 🐛 2,624 | 🌐 Python | 📅 2026-11-05] - A data orchestrator for machine learning, analytics, and ETL.
 * <https://github.com/meirwah/awesome-workflow-engines[Awesome> Workflow Engines] - A curated list of awesome open source workflow engines.
 * <https://airflow.apache.org/[Apache> Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
 * <https://nifi.apache.org/[Apache> NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
@@ -166,4 +166,4 @@ The contents of this repository is licensed under the "Creative Commons Attribut
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
