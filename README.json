@@ -91,7 +91,7 @@
             "id": 208038454,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T13:14:59Z",
+            "last_commit": "2026-11-12T14:56:46Z",
             "open_issues": 448,
             "owner": "treeverse",
             "repo": "lakeFS",
@@ -132,8 +132,8 @@
             "id": 139199684,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T22:41:04Z",
-            "open_issues": 904,
+            "last_commit": "2026-11-12T18:27:57Z",
+            "open_issues": 899,
             "owner": "PrefectHQ",
             "repo": "prefect",
             "stars": 24151,
@@ -168,11 +168,11 @@
             "id": 131619646,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T22:11:37Z",
-            "open_issues": 2630,
+            "last_commit": "2026-11-12T16:59:17Z",
+            "open_issues": 2637,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16387,
+            "stars": 16408,
             "topics": [
               "analytics",
               "dagster",
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:02:06.137Z",
+    "last_updated": "2026-11-12T18:35:16.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Open-Source Data Engineering Projects",
