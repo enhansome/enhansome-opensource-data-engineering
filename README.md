@@ -115,23 +115,23 @@ toc::\[]
 
 \== Testing
 
-* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2026-10-08 Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.
+* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 144 | 🐛 8 | 🌐 Python | 📅 2026-11-17 Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.
 * <https://greatexpectations.io/[Great> expectations] - Helps data teams eliminate pipeline debt, through data testing.
 
 \== Monitoring and Logging
 
-* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2026-10-08 Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate
+* <https://github.com/DataKitchen/data-observability-installer/[DataKitchen> ⭐ 144 | 🐛 8 | 🌐 Python | 📅 2026-11-17 Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate
 * <https://prometheus.io/[prometheus>] - An open-source systems monitoring and alerting toolkit.
 * <https://grafana.com/[grafana>] - An open-source analytics and monitoring platform.
 
 \== Versioning
 
-* <https://github.com/treeverse/lakeFS/[lakeFS> ⭐ 5,588 | 🐛 448 | 🌐 Go | 📅 2026-11-17] - Repeatable, atomic and versioned data lake on top of object storage.
+* <https://github.com/treeverse/lakeFS/[lakeFS> ⭐ 5,586 | 🐛 448 | 🌐 Go | 📅 2026-11-18] - Repeatable, atomic and versioned data lake on top of object storage.
 
 \== Workflow Management
 
-* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 24,172 | 🐛 876 | 🌐 Python | 📅 2026-11-17] - A workflow management system designed for modern infrastructure.
-* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,435 | 🐛 2,629 | 🌐 Python | 📅 2026-11-17] - A data orchestrator for machine learning, analytics, and ETL.
+* <https://github.com/PrefectHQ/prefect/[Prefect> ⭐ 24,183 | 🐛 885 | 🌐 Python | 📅 2026-11-18] - A workflow management system designed for modern infrastructure.
+* <https://github.com/dagster-io/dagster/[Dagster> ⭐ 16,443 | 🐛 2,632 | 🌐 Python | 📅 2026-11-18] - A data orchestrator for machine learning, analytics, and ETL.
 * <https://github.com/meirwah/awesome-workflow-engines[Awesome> Workflow Engines] - A curated list of awesome open source workflow engines.
 * <https://airflow.apache.org/[Apache> Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
 * <https://nifi.apache.org/[Apache> NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
@@ -166,4 +166,4 @@ The contents of this repository is licensed under the "Creative Commons Attribut
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
