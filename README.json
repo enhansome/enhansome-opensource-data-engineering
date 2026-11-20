@@ -15,7 +15,7 @@
             "id": 788686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:30:00Z",
+            "last_commit": "2026-11-20T17:32:51Z",
             "open_issues": 8,
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
@@ -53,7 +53,7 @@
             "id": 788686533,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:30:00Z",
+            "last_commit": "2026-11-20T17:32:51Z",
             "open_issues": 8,
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
@@ -95,7 +95,7 @@
             "open_issues": 447,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5586,
+            "stars": 5589,
             "topics": [
               "apache-spark",
               "apache-sparksql",
@@ -132,11 +132,11 @@
             "id": 139199684,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:57:57Z",
-            "open_issues": 872,
+            "last_commit": "2026-11-20T18:46:35Z",
+            "open_issues": 870,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 24187,
+            "stars": 24195,
             "topics": [
               "automation",
               "data",
@@ -168,11 +168,11 @@
             "id": 131619646,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T16:09:28Z",
-            "open_issues": 2633,
+            "last_commit": "2026-11-20T18:17:17Z",
+            "open_issues": 2632,
             "owner": "dagster-io",
             "repo": "dagster",
-            "stars": 16445,
+            "stars": 16447,
             "topics": [
               "analytics",
               "dagster",
@@ -198,7 +198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:09:05.960Z",
+    "last_updated": "2026-11-20T18:48:55.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of Open-Source Data Engineering Projects",
@@ -210,7 +210,7 @@
       "open_issues": 30,
       "owner": "gunnarmorling",
       "repo": "awesome-opensource-data-engineering",
-      "stars": 3313,
+      "stars": 3311,
       "topics": [
         "awesome-list",
         "data-engineering"
